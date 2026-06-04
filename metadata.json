@@ -1,0 +1,59 @@
+{
+  "siteId": "lighting-design-layout",
+  "generatedAt": "2026-06-04T11:35:37.405851",
+  "categories": [
+    "beginner-lighting-design-layout",
+    "advanced-lighting-design-layout",
+    "tips-lighting-design-layout",
+    "history-lighting-design-layout",
+    "trending-lighting-design-layout",
+    "tutorials-lighting-design-layout"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-lighting-design-layout",
+      "category_name": "Beginner Lighting Design Layout"
+    },
+    {
+      "category_slug": "advanced-lighting-design-layout",
+      "category_name": "Advanced Lighting Design Layout"
+    },
+    {
+      "category_slug": "tips-lighting-design-layout",
+      "category_name": "Lighting Design Layout Tips"
+    },
+    {
+      "category_slug": "history-lighting-design-layout",
+      "category_name": "Lighting Design Layout History"
+    },
+    {
+      "category_slug": "trending-lighting-design-layout",
+      "category_name": "Trending Lighting Design Layout"
+    },
+    {
+      "category_slug": "tutorials-lighting-design-layout",
+      "category_name": "Lighting Design Layout Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "lighting-design-layout",
+    "color_scheme": {
+      "name": "Warm Orange",
+      "primary": "#c2410c",
+      "secondary": "#f97316",
+      "accent": "#fdba74",
+      "background": "#fff7ed",
+      "text": "#7c2d12",
+      "light": "#ffedd5"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "centered",
+    "site_title": "Lighting Design Layout Central",
+    "articles_per_row": 1
+  }
+}

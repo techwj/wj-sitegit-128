@@ -1,0 +1,88 @@
+# Validation Report - lighting-design-layout
+
+Generated: 2026-06-04T11:35:37.405594
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Lighting Design Layout
+- ✓ Article word count OK: Beginner Lighting Design Layout: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Lighting Design Layout
+- ✓ Article word count OK: Beginner Lighting Design Layout Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Lighting Design Layout
+- ✓ Article word count OK: Beginner Lighting Design Layout in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Lighting Design Layout
+- ✓ Article word count OK: Common Mistakes in Beginner Lighting Design Layout
+- ✓ Article word count OK: Beginner Lighting Design Layout for Beginners
+- ✓ Article word count OK: Advanced Beginner Lighting Design Layout Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Lighting Design Layout
+- ✓ Article word count OK: Advanced Lighting Design Layout: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Lighting Design Layout
+- ✓ Article word count OK: Advanced Lighting Design Layout Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Lighting Design Layout
+- ✓ Article word count OK: Advanced Lighting Design Layout in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Lighting Design Layout
+- ✓ Article word count OK: Common Mistakes in Advanced Lighting Design Layout
+- ✓ Article word count OK: Advanced Lighting Design Layout for Beginners
+- ✓ Article word count OK: Advanced Advanced Lighting Design Layout Techniques
+- ✓ Article word count OK: The Ultimate Guide to Lighting Design Layout Tips
+- ✓ Article word count OK: Lighting Design Layout Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Lighting Design Layout Tips
+- ✓ Article word count OK: Lighting Design Layout Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Lighting Design Layout Tips
+- ✓ Article word count OK: Lighting Design Layout Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Lighting Design Layout Tips
+- ✓ Article word count OK: Common Mistakes in Lighting Design Layout Tips
+- ✓ Article word count OK: Lighting Design Layout Tips for Beginners
+- ✓ Article word count OK: Advanced Lighting Design Layout Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Lighting Design Layout History
+- ✓ Article word count OK: Lighting Design Layout History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Lighting Design Layout History
+- ✓ Article word count OK: Lighting Design Layout History Tips and Best Practices
+- ✓ Article word count OK: The History of Lighting Design Layout History
+- ✓ Article word count OK: Lighting Design Layout History in 2026: Current Trends
+- ✓ Article word count OK: Future of Lighting Design Layout History
+- ✓ Article word count OK: Common Mistakes in Lighting Design Layout History
+- ✓ Article word count OK: Lighting Design Layout History for Beginners
+- ✓ Article word count OK: Advanced Lighting Design Layout History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Lighting Design Layout
+- ✓ Article word count OK: Trending Lighting Design Layout: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Lighting Design Layout
+- ✓ Article word count OK: Trending Lighting Design Layout Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Lighting Design Layout
+- ✓ Article word count OK: Trending Lighting Design Layout in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Lighting Design Layout
+- ✓ Article word count OK: Common Mistakes in Trending Lighting Design Layout
+- ✓ Article word count OK: Trending Lighting Design Layout for Beginners
+- ✓ Article word count OK: Advanced Trending Lighting Design Layout Techniques
+- ✓ Article word count OK: The Ultimate Guide to Lighting Design Layout Tutorials
+- ✓ Article word count OK: Lighting Design Layout Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Lighting Design Layout Tutorials
+- ✓ Article word count OK: Lighting Design Layout Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Lighting Design Layout Tutorials
+- ✓ Article word count OK: Lighting Design Layout Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Lighting Design Layout Tutorials
+- ✓ Article word count OK: Common Mistakes in Lighting Design Layout Tutorials
+- ✓ Article word count OK: Lighting Design Layout Tutorials for Beginners
+- ✓ Article word count OK: Advanced Lighting Design Layout Tutorials Techniques
+- ✓ Ad configuration validated
